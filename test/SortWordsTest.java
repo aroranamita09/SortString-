@@ -15,7 +15,7 @@ public class SortWordsTest {
 
     @After
     public void tearDown() throws Exception {
-        SortWords obj = null;
+         obj = null;
     }
 
     @Test
